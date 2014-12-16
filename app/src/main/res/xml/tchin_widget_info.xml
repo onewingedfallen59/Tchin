@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="220dp" android:resizeMode="horizontal|vertical" android:minHeight="80dp" android:updatePeriodMillis="86400000"
+    android:previewImage="@drawable/glass_1"
+    android:initialLayout="@layout/tchin_widget" android:widgetCategory="home_screen|keyguard"
+    android:initialKeyguardLayout="@layout/tchin_widget"></appwidget-provider>
